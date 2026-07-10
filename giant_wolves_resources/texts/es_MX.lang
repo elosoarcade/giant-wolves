@@ -1,0 +1,3 @@
+entity.eoa:wolf_giant.name=Lobo gigante
+item.spawn_egg.entity.eoa:wolf_giant.name=Huevo generador de lobo gigante
+action.hint.exit.eoa:wolf_giant=Presiona [SHIFT] para desmontar

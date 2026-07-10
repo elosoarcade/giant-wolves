@@ -1,0 +1,22 @@
+{
+	"entity_sounds": {
+		"entities": {
+			"eoa:wolf_giant": {
+				"events": {
+					"ambient": "mob.wolf.bark",
+					"death": "mob.wolf.death",
+					"eat": "",
+					"growl": "mob.wolf.growl",
+					"hurt": "mob.wolf.hurt",
+					"hurt.reduced": "armor.damage_wolf",
+					"pant": "mob.wolf.panting",
+					"shake": "mob.wolf.shake",
+					"step": "mob.wolf.step",
+					"whine": "mob.wolf.whine"
+				},
+				"pitch": [0.4, 0.6],
+				"volume": 1.2
+			}
+		}
+	}
+}

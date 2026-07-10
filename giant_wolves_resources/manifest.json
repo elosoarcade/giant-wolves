@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Giant Wolves (R)",
+		"description": "Adds Giant Wolves to Bedrock by El Oso Arcade",
+		"uuid": "abb19a63-5d32-f30b-488c-5a1a52d525bf",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 21, 70]
+	},
+	"metadata": {
+		"authors": ["El Oso Arcade"],
+		"license": "CC BY-NC-ND 4.0 - Giant Wolves MCBE Add-on",
+		"product_type": "addon",
+		"url": "https://github.com/elosoarcade/giant-wolves"
+	},
+	"modules": [
+		{
+			"description": "Giant Wolves",
+			"type": "resources",
+			"uuid": "43bf02cc-7d47-7537-139b-0c11a06f1987",
+			"version": [1, 0, 0]
+		}
+	]
+}

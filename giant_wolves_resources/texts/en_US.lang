@@ -1,0 +1,3 @@
+entity.eoa:wolf_giant.name=Giant Wolf
+item.spawn_egg.entity.eoa:wolf_giant.name=Spawn Giant Wolf
+action.hint.exit.eoa:wolf_giant=Press [SHIFT] to dismount
