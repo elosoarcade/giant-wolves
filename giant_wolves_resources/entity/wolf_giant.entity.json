@@ -11,7 +11,8 @@
 				"skin_1": "textures/entity/wolf_giant_1",
 				"skin_2": "textures/entity/wolf_giant_2",
 				"skin_3": "textures/entity/wolf_giant_3",
-				"skin_4": "textures/entity/wolf_giant_4"
+				"skin_4": "textures/entity/wolf_giant_4",
+				"skin_5": "textures/entity/wolf_giant_5"				
 			},
 			"geometry": {
 				"default": "geometry.wolf_giant"

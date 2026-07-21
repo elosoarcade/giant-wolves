@@ -163,7 +163,12 @@
 				"minecraft:variant": {
 					"value": 4
 				}
-			}
+			},
+			"eoa:wolf_giant_skin_5": {
+				"minecraft:variant": {
+					"value": 5
+				}
+			}			
 		},
 		"components": {
 			"minecraft:nameable": {},
@@ -300,11 +305,17 @@
 								}
 							},
 							{
-								"weight": 50,
+								"weight": 45,
 								"add": {
 									"component_groups": ["eoa:wolf_giant_skin_4"]
 								}
-							}
+							},
+							{
+								"weight": 5,
+								"add": {
+									"component_groups": ["eoa:wolf_giant_skin_5"]
+								}
+							}							
 						]
 					},
 					{

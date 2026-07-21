@@ -4,7 +4,7 @@
 		"name": "Giant Wolves (B)",
 		"description": "Adds Giant Wolves to Bedrock by El Oso Arcade",
 		"uuid": "09ba8e52-7f0e-5c54-73e1-1f5e1ccd8b11",
-		"version": [1, 0, 0],
+		"version": [1, 1, 0],
 		"min_engine_version": [1, 21, 70]
 	},
 	"metadata": {
@@ -16,7 +16,7 @@
 	"modules": [
 		{
 			"description": "Behavior",
-			"version": [1, 0, 0],
+			"version": [1, 1, 0],
 			"uuid": "6854d7c7-f749-12cd-faa3-4bb4564b261c",
 			"type": "data"
 		}
@@ -24,7 +24,7 @@
 	"dependencies": [
 		{
 			"uuid": "abb19a63-5d32-f30b-488c-5a1a52d525bf",
-			"version": [1, 0, 0]
+			"version": [1, 1, 0]
 		}
 	]
 }
