@@ -3,7 +3,7 @@
 
 You can find these giant friends in the Taiga and Snowy Taiga biomes, during sunrise and sunset. They will always attack Zombies, Skeletons, and Witches. To tame them, you must give them Golden Apples, and to heal them, Golden Carrots. Once tamed, you can make them sit by interacting while sneaking, or you can ride them—but you cannot leash them, they're too epic to be tied up!
 
-In this first version, Giant Wolves have 5 different textures, some rarer than others, with the White and Light Blue ones being the hardest to find. More colors will be available in future updates.
+Giant Wolves have six different textures, some rarer than others, with the White and Light Blue ones being the hardest to find. More colors will be available in future updates.
 
 *   ❤️ HP: 80-100
 *   ⚔️ ATK: 8
