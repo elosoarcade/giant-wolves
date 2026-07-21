@@ -10,4 +10,4 @@ Giant Wolves have six different textures, some rarer than others, with the White
 
 _This addon is optimized to run effectively on Realms and dedicated servers with minimal hardware resource consumption and its available in english and español._ 🇬🇧 🇲🇽
 
-<img width="1200" height="675" alt="wolfs-cover_20260709_170011_0000" src="https://github.com/user-attachments/assets/6efcaac4-dfa8-4d0a-8878-e8dcc65208d6" />
+<img width="1200" height="675" alt="wolfs-cover_20260721_143002_0000" src="https://github.com/user-attachments/assets/19cfd6f3-b70f-41bb-8448-bee5f35c75d5" />
